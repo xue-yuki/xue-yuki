@@ -3,18 +3,20 @@
 <h2 align="left">Hi 👋 My name is Erlangga.<br>A student from Indonesia, chasing ideas and turning them into code.</h2>
 
 ![xue-yuki](img/banner1.png)
+
+###
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=xue-yuki&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ###
 
-![](https://github-readme-stats.vercel.app/api?username=xue-yuki&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=xue-yuki&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xue-yuki&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xue-yuki&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xue-yuki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false" height="170"/>
+</p>
 
-
-
-###
 
 <h2 align="left">Crafting ideas into reality ✨</h2>
 
