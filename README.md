@@ -1,5 +1,11 @@
-- 👋 Hi, I’m @xue-yuki
+
+
+![xue-yuki](img/banner1.png)
+
+
 - I’m interested in the world of programming
+- I'm a Student at SMK Telkom Purwokerto
+
   
 
 <!---
