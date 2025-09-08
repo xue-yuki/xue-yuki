@@ -1,6 +1,8 @@
 
 
-<h2 align="left">Hi 👋 My name is Erlangga.<br>A student from Indonesia, chasing ideas and turning them into code.<br>Always learning, always building.</h2>
+<h2 align="left">Hi 👋 My name is Erlangga.<br>A student from Indonesia, chasing ideas and turning them into code.</h2>
+
+![xue-yuki](img/banner1.png)
 
 ###
 
@@ -61,16 +63,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xue-yuki/xue-yuki/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
-<img align="right" height="150" src="https://media.tenor.com/yI1D5LzfRaIAAAAM/blue-box-ao-no-hako.gif"  />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31d6pywqmxitrwoougxudsvygtay">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31d6pywqmxitrwoougxudsvygtay&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
