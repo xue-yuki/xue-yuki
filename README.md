@@ -1,72 +1,114 @@
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Erlangga&fontSize=80&fontAlign=50&fontAlignY=35&animation=fadeIn&desc=Turning%20Code%20Into%20Reality&descAlign=50&descAlignY=60"/>
+</div>
 
-<h2 align="left">Hi 👋 My name is Erlangga.<br>A student from Indonesia, chasing ideas and turning them into code.</h2>
+<!-- Terminal / About Me Section -->
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="600" valign="top">
+      
+<h3>👨‍💻 Terminal_WhoAmI</h3>
+<pre>
+<code class="language-bash">
+> const user = {
+    name: "Erlangga",
+    role: "Full Stack Developer",
+    location: "Indonesia 🇮🇩",
+    hobby: ["Coding", "Designing", "Sleep 😴"],
+    current_status: "Building Cool Stuff..."
+};
 
-![xue-yuki](img/banner1.png)
+> console.log("Let's Collaborate!");
+</code>
+</pre>
 
-###
+<br>
+      
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=33E6F7&width=435&lines=Hi+There!+%F0%9F%91%8B;I+Build+Web+Apps;I+Love+Open+Source;Always+Learning..." alt="Typing SVG" />
+</a>
 
+   </td>
+    <td width="400" valign="center">
+      <!-- 3D Stats (Placeholder until Generated) -->
+      <div align="center">
+        <br>
+        <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Stats (Run Action to Generate)" width="100%"/>
+        <p><i>(3D Stats will appear here after workflow run)</i></p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=xue-yuki&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xue-yuki&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xue-yuki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false" height="170"/>
-</p>
-
-
-<h2 align="left">Crafting ideas into reality ✨</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+<!-- Stats Section -->
+<h2 align="center">⚡ Github Stats ⚡</h2>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=xue-yuki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" height="160" alt="stats graph" />
+      </td>
+      <td>
+         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xue-yuki&layout=compact&langs_count=6&card_width=320&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="languages graph" />
+      </td>
+    </tr>
+  </table>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xue-yuki&theme=tokyonight&hide_border=true&background=00000000" alt="streak graph" />
 </div>
 
-###
+<br>
 
-<div align="left">
+<!-- Snake Game -->
+<h2 align="center">🐍 Contributions Snake 🐍</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xue-yuki/xue-yuki/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xue-yuki/xue-yuki/output/github-snake.svg">
+    <img alt="github contributions snake animations" src="https://raw.githubusercontent.com/xue-yuki/xue-yuki/output/github-snake.svg">
+  </picture>
+</div>
+
+---
+
+<!-- Tech Stack -->
+<h2 align="center">🛠️ Tech Arsenal</h2>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,php,html,css,csharp,cpp&theme=dark&perline=8" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind,bootstrap,express,nodejs&theme=dark&perline=7" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,mysql,firebase&theme=dark&perline=7" />
+  </a>
+</div>
+
+<br>
+
+<!-- Socials -->
+<h2 align="center">🌐 Connect</h2>
+<div align="center">
   <a href="https://www.instagram.com/zeennerl/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>   
   <a href="https://discord.gg/elamgah" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>   
   <a href="https://www.linkedin.com/in/erlangga-web-dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
 
-###
+<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xue-yuki/xue-yuki/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xue-yuki/xue-yuki/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/xue-yuki/xue-yuki/output/pacman-contribution-graph.svg">
-</picture>
-
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <br>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=xue-yuki&icon=5&color=6" alt="Visit Count" />
+  </a>
+</div>
